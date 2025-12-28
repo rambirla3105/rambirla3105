@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ram Birla</h1>
 <h3 align="center">A passionate full-stack web-developer from India</h3>
+🚀 B.Tech CSE (Core) | MERN Stack Developer | DSA in Progress  
+💻 Building scalable web apps & sharpening problem-solving skills  
+📚 Exploring Core CS, System Design & AI  
+🎯 Targeting MAANG-level SDE roles  
+
 
 - 📫 How to reach me **personal310504@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
