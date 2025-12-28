@@ -4,9 +4,9 @@
 💻 Building scalable web apps & sharpening problem-solving skills  </br>
 📚 Exploring Core CS, System Design & AI  </br>
 🎯 Targeting MAANG-level SDE roles  </br>
+</br>
 
 - 📫 How to reach me **personal310504@gmail.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
